@@ -1,0 +1,22 @@
+{
+  "name": "react-cms-graphql-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fi1osof",
+  "license": "ISC",
+  "keywords": [
+    "\"react-cms",
+    "GraphQL\""
+  ],
+  "bugs": {
+    "url": "https://github.com/MODX-Club/react-cms-graphql-utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MODX-Club/react-cms-graphql-utils.git"
+  },
+  "description": ""
+}
