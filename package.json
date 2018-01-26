@@ -1,6 +1,6 @@
 {
   "name": "react-cms-graphql-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
     "type": "git",
     "url": "git+https://github.com/MODX-Club/react-cms-graphql-utils.git"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0"
+  }
 }
